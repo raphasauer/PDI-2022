@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="welcome">Sucesso!</string>
+    <string name="login">ENTRAR</string>
+    <string name="hint_enterUserName">Seu usuário</string>
+    <string name="password">Senha</string>
+    <string name="hint_password">Sua senha</string>
+    <string name="upper_text">Agora informe o usuário e a senha</string>
+    <string name="bottom_text">Os mesmos usados para acessar o SetaERP</string>
+</resources>
